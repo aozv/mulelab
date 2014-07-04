@@ -50,7 +50,7 @@ public class AppController {
     protected static final String VIEW_NAME_SERVIDORES_PAGE = "servidores";
     protected static final String REDIRECT_NAME_USUARIOS_PAGE = "redirect:/usuarios";
     protected static final String REDIRECT_NAME_SERVIDORES_PAGE = "redirect:/servidores";
-    protected static final String REDIRECT_NAME_COMANDOS_PAGE = "redirect:/commands";
+    protected static final String REDIRECT_NAME_COMANDOS_PAGE = "redirect:/comandos";
     protected static final String VIEW_NAME_EDIT_USUARIO_PAGE = "/usuario/editar";
     protected static final String VIEW_NAME_NUEVO_USUARIO_PAGE = "/nuevo-usuario";
     protected static final String VIEW_NAME_EDIT_SERVIDOR_PAGE = "/editar-servidor";
