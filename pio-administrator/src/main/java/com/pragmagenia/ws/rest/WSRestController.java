@@ -2,13 +2,9 @@ package com.pragmagenia.ws.rest;
 
 import java.util.List;
 
-import javax.websocket.server.PathParam;
-
-import org.mockito.InjectMocks;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.HttpMethod;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
